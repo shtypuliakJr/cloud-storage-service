@@ -1,4 +1,5 @@
 target/
 .idea/
 
-final-year-project.iml
+cloud-storage-service.iml
+.gitignore
